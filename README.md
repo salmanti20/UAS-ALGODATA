@@ -1,0 +1,2 @@
+# UAS-ALGODATA
+NAMA : salman alfariji NIM : 20200040033 KELAS : TI 20 A
